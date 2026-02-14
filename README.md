@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Joshua Wandera 
 
-<!--
-**Explorerjoshua/Explorerjoshua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+-  I am currently learning **Programming**
+-  I am interested in **software development and technology**
+- I am looking to collaborate on **beginner-friendly programming and open-source projects**
+- I am motivated to grow my skills and become a professional developer
 
-Here are some ideas to get you started:
+## Skills I'm Building
+- Git & GitHub  
+- Programming fundamentals  
+- Problem-solving skills  
+- Planning to learn: **Python, HTML, CSS, JavaScript**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Projects
+- Beginner programming exercises  
+- GitHub practice projects for version control
+
+## How to Reach Me
+- 📧 Email: **joshuawandera092@gmail.com**
+- GitHub: https://github.com/Explorerjoshua
+
