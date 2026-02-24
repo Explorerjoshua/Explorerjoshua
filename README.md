@@ -18,5 +18,5 @@
 
 ## How to Reach Me
 - 📧 Email: **joshuawandera092@gmail.com**
-- GitHub: https://github.com/Explorerjoshua
+- GitHub: https://github.com/iyf-s10-week02-Explorerjoshua
 
